@@ -1,0 +1,13 @@
+@media (max-width: 768px) {
+  .mobile-version {
+    display: inline-block;
+  }
+
+  .desktop-version {
+    display: none;
+  }
+
+  .icon-top {
+    flex-direction: row;
+  }
+}

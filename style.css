@@ -1,0 +1,46 @@
+.header {
+  background-color: #1c1a19
+  ;
+}
+
+.header h1 {
+  color: #f55800;
+}
+
+.header h2, p {
+  color: #fff;
+}
+
+.header ul {
+  list-style: none;
+}
+
+.social li {
+  color: #fff;
+}
+
+.header a {
+  color: #fff;
+}
+
+.top-image {
+  width: 400px;
+  margin-right: -59px;
+}
+
+.page-1 {
+  width: 100%;
+}
+
+.mobile-version {
+  display: none;
+}
+
+.icon-top {
+  display: flex;
+  flex-direction: column;
+}
+
+.heading-top {
+  padding-top: 130px;
+}
