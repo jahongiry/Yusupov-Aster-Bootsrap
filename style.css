@@ -25,5 +25,22 @@
 
 .top-image {
   width: 400px;
-  margin-right: -55px;
+  margin-right: -59px;
+}
+
+.page-1 {
+  width: 100%;
+}
+
+.mobile-version {
+  display: none;
+}
+
+.icon-top {
+  display: flex;
+  flex-direction: column;
+}
+
+.heading-top {
+  padding-top: 130px;
 }
